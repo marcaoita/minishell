@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/marcos/Desktop/ita/minishell_project/minishell.c
+stdio.h
+-
+sys/types.h
+-
+unistd.h
+-
+errno.h
+-
+sys/wait.h
+-
+string.h
+-
+stdbool.h
+-
+stdlib.h
+-
+

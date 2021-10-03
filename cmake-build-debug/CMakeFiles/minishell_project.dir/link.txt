@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/minishell_project.dir/minishell.c.o -o minishell_project 

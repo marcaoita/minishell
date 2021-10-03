@@ -1,0 +1,3 @@
+/home/marcos/Desktop/ita/minishell_project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/marcos/Desktop/ita/minishell_project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/marcos/Desktop/ita/minishell_project/cmake-build-debug/CMakeFiles/minishell_project.dir
